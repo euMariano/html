@@ -6,7 +6,7 @@ yarn-error.log*
 pnpm-debug.log*
 
 # SQLite database
-todos.db
+*.db
 
 # Sistema
 .DS_Store
