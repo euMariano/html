@@ -1,0 +1,28 @@
+# Node.js
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# SQLite database
+todos.db
+
+# Sistema
+.DS_Store
+Thumbs.db
+
+# Editor / IDE
+.vscode/
+*.swp
+*.swo
+*.swn
+*.tmp
+
+# Logs
+*.log
+
+# Build / dist (se futuramente gerar)
+dist/
+build/
+
